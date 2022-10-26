@@ -9,7 +9,6 @@ It consists of **four** pages where each page has its own functionality and the 
 Displays a list of cocktails depending on what input is entered in the search bar. Each cocktail
 shows has an image, name and type of glass used. As well as a button that will navigate the user 
 to that specific cocktail's page.
-a different page where 
 
 Note: If the search bar is empty, the list will display the first 25 cocktails.
 
